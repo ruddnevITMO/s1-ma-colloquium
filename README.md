@@ -66,250 +66,250 @@
 [Дocтaтoчнoe уcлoвиe экcтpeмумa c иcпoльзoвaниeм втopoй пpoизвoднoй](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%83%D0%BC%D0%B0-%D1%81-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-65-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)\
 [Acимптoты](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%B0%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D1%82%D1%8B-66-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
 ## Операции над множествами и их свойства [1] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Операции над множествами и их свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/1.jpg)
+![Операции над множествами и их свойства](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/1.jpg)
 ---
 ## Инъекция, сюръекция, биекция [2] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Инъекция, сюръекция, биекция](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/2.jpg)
+![Инъекция, сюръекция, биекция](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/2.jpg)
 ---
 ## Комплексные числа. Алгебраическая форма [3] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Комплексные числа. Алгебраическая форма](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/3.jpg)
+![Комплексные числа. Алгебраическая форма](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/3.jpg)
 ---
 ## Комплексные числа. Тригонометрическая форма [4] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Комплексные числа. Тригонометрическая форма](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/4.jpg)
+![Комплексные числа. Тригонометрическая форма](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/4.jpg)
 ---
 ## Поле комплексных чисел [5] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Поле комплексных чисел](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/5.jpg)
+![Поле комплексных чисел](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/5.jpg)
 ---
 ## Операции над комплексными числами в алгебраической и тригонометрической форме [6] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Операции над комплексными числами в алгебраической и тригонометрической форме](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/6.jpg)
+![Операции над комплексными числами в алгебраической и тригонометрической форме](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/6.jpg)
 ---
 ## Показательная форма КЧ [7] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Показательная форма КЧ](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/7.jpg)
+![Показательная форма КЧ](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/7.jpg)
 ---
 ## Функции КЧ и их свойства [8] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Функции КЧ и их свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/8.jpg)
+![Функции КЧ и их свойства](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/8.jpg)
 ---
 ## Полиномы. Корни полиномов, деление полиномов [9] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Полиномы. Корни полиномов, деление полиномов](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/9.jpg)
+![Полиномы. Корни полиномов, деление полиномов](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/9.jpg)
 ---
 ## Теорема Безу и её следствие [10] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Безу и её следствие](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/10.jpg)
+![Теорема Безу и её следствие](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/10.jpg)
 ### Альтернативный билет для  Теорема Безу и её следствие [10] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Безу и её следствие](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/10.png)
+![Теорема Безу и её следствие](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/10.png)
 ---
 ## Теорема о количестве корней полинома [11] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о количестве корней полинома](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/11.jpg)
+![Теорема о количестве корней полинома](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/11.jpg)
 ---
 ## Теорема о Единственности разложения полинома на множители [12] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о Единственности разложения полинома на множители](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/12.jpg)
+![Теорема о Единственности разложения полинома на множители](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/12.jpg)
 ---
 ## Теорема о комплексной сопряженности корней [13] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о комплексной сопряженности корней](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/13.jpg)
+![Теорема о комплексной сопряженности корней](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/13.jpg)
 ---
 ## Теорема Виета [14] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Виета](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/14.jpg)
+![Теорема Виета](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/14.jpg)
 ### Альтернативный билет для  Теорема Виета [14] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Виета](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/14.png)
+![Теорема Виета](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/14.png)
 ---
 ## Предел последовательности, бесконечно большая и малая последовательности [15] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Предел последовательности, бесконечно большая и малая последовательности](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/15.jpg)
+![Предел последовательности, бесконечно большая и малая последовательности](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/15.jpg)
 ---
 ## Теорема об определении предела на языке бесконечно малых [16] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема об определении предела на языке бесконечно малых](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/16.jpg)
+![Теорема об определении предела на языке бесконечно малых](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/16.jpg)
 ---
 ## Теорема о сгущении последовательности к предельному значению, следствие 1 и 2 [17] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о сгущении последовательности к предельному значению, следствие 1 и 2](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/17.jpg)
+![Теорема о сгущении последовательности к предельному значению, следствие 1 и 2](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/17.jpg)
 ---
 ## Теорема о единственности предела [18] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о единственности предела](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/18.jpg)
+![Теорема о единственности предела](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/18.jpg)
 ---
 ## Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших [19] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/19.jpg)
+![Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/19.jpg)
 ### Альтернативный билет для  Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших [19] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/19.png)
+![Теорема о связи бесконечно больших и бесконечно малых и Теорема о связи бесконечно малых и бесконечно больших](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/19.png)
 ---
 ## Теорема о предельном переходе в неравенстве [20] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о предельном переходе в неравенстве](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/20.jpg)
+![Теорема о предельном переходе в неравенстве](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/20.jpg)
 ### Альтернативный билет для  Теорема о предельном переходе в неравенстве [20] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о предельном переходе в неравенстве](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/20.png)
+![Теорема о предельном переходе в неравенстве](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/20.png)
 ---
 ## Правило 2-х милиционеров [21] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Правило 2-х милиционеров](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/21.jpg)
+![Правило 2-х милиционеров](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/21.jpg)
 ---
 ## Понятие Супремума и Инфимума [22] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Понятие Супремума и Инфимума](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/22.jpg)
+![Понятие Супремума и Инфимума](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/22.jpg)
 ---
 ## Арифметические операции над последовательностями и их пределы [23] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Арифметические операции над последовательностями и их пределы](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/23.jpg)
+![Арифметические операции над последовательностями и их пределы](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/23.jpg)
 ---
 ## Монотонная последовательность [24] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Монотонная последовательность](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/24.jpg)
+![Монотонная последовательность](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/24.jpg)
 ---
 ## Теорема о пределе монотонной последовательности [25] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о пределе монотонной последовательности](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/25.jpg)
+![Теорема о пределе монотонной последовательности](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/25.jpg)
 ---
 ## Число е [26] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Число е](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/26.jpg)
+![Число е](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/26.jpg)
 ### Альтернативный билет для  Число е [26] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Число е](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/26.png)
+![Число е](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/26.png)
 ---
 ## Лемма о вложенных промежутках [27] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Лемма о вложенных промежутках](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/27.jpg)
+![Лемма о вложенных промежутках](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/27.jpg)
 ---
 ## Критерий Коши сходимости последовательности [28] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Критерий Коши сходимости последовательности](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/28.jpg)
+![Критерий Коши сходимости последовательности](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/28.jpg)
 ---
 ## Теорема о пределе подпоследовательности [29] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о пределе подпоследовательности](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/29.jpg)
+![Теорема о пределе подпоследовательности](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/29.jpg)
 ### Альтернативный билет для  Теорема о пределе подпоследовательности [29] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о пределе подпоследовательности](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/29.png)
+![Теорема о пределе подпоследовательности](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/29.png)
 ---
 ## Лемма Больцано-Вейерштрасса [30] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Лемма Больцано-Вейерштрасса](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/30.jpg)
+![Лемма Больцано-Вейерштрасса](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/30.jpg)
 ### Альтернативный билет для  Лемма Больцано-Вейерштрасса [30] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Лемма Больцано-Вейерштрасса](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/30.png)
+![Лемма Больцано-Вейерштрасса](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/30.png)
 ---
 ## Точка сгущения [31] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Точка сгущения](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/31.jpg)
+![Точка сгущения](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/31.jpg)
 ---
 ## Предел функции (по Коши, по Гейне) [32] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Предел функции (по Коши, по Гейне)](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/32.jpg)
+![Предел функции (по Коши, по Гейне)](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/32.jpg)
 ---
 ## Теорема о связи предела функции и пределов последовательностей [33] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о связи предела функции и пределов последовательностей](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/33.jpg)
+![Теорема о связи предела функции и пределов последовательностей](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/33.jpg)
 ---
 ## Первый замечательный предел [34] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Первый замечательный предел](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/34.jpg)
+![Первый замечательный предел](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/34.jpg)
 ### Альтернативный билет для  Первый замечательный предел [34] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Первый замечательный предел](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/34.png)
+![Первый замечательный предел](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/34.png)
 ---
 ## Второй замечательный предел [35] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Второй замечательный предел](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/35.jpg)
+![Второй замечательный предел](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/35.jpg)
 ---
 ## Классификация бесконечных малых (о-малое, О-большое и тд) [36] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Классификация бесконечных малых (о-малое, О-большое и тд)](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/36.jpg)
+![Классификация бесконечных малых (о-малое, О-большое и тд)](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/36.jpg)
 ---
 ## Непрерывные функции [37] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Непрерывные функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/37.jpg)
+![Непрерывные функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/37.jpg)
 ---
 ## Точки разрыва [38] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Точки разрыва](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/38.jpg)
+![Точки разрыва](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/38.jpg)
 ---
 ## Теорема о разрывах монотонной функции [39] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о разрывах монотонной функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/39.jpg)
+![Теорема о разрывах монотонной функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/39.jpg)
 ---
 ## Теорема о непрерывности монотонной функции [40] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о непрерывности монотонной функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/40.jpg)
+![Теорема о непрерывности монотонной функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/40.jpg)
 ### Альтернативный билет для  Теорема о непрерывности монотонной функции [40] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о непрерывности монотонной функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/40.png)
+![Теорема о непрерывности монотонной функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/40.png)
 ---
 ## Теорема о непрерывности суперпозиции элементарных функций [41] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о непрерывности суперпозиции элементарных функций](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/41.jpg)
+![Теорема о непрерывности суперпозиции элементарных функций](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/41.jpg)
 ### Альтернативный билет для  Теорема о непрерывности суперпозиции элементарных функций [41] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема о непрерывности суперпозиции элементарных функций](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/41.png)
+![Теорема о непрерывности суперпозиции элементарных функций](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/41.png)
 ---
 ## Первая теорема Больцано-Коши [42] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Первая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/42.jpg)
+![Первая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/42.jpg)
 ### Альтернативный билет для  Первая теорема Больцано-Коши [42] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Первая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/42.png)
+![Первая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/42.png)
 ---
 ## Вторая теорема Больцано-Коши [43] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Вторая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/43.jpg)
+![Вторая теорема Больцано-Коши](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/43.jpg)
 ---
 ## Первая теорема Вейерштрасса [44] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Первая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/44.jpg)
+![Первая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/44.jpg)
 ---
 ## Вторая теорема Вейерштрасса [45] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Вторая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/45.jpg)
+![Вторая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/45.jpg)
 ### Альтернативный билет для  Вторая теорема Вейерштрасса [45] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Вторая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/45.png)
+![Вторая теорема Вейерштрасса](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/45.png)
 ---
 ## Равномерная непрерывность [46] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Равномерная непрерывность](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/46.jpg)
+![Равномерная непрерывность](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/46.jpg)
 ---
 ## Теорема Кантора [47] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Кантора](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/47.jpg)
+![Теорема Кантора](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/47.jpg)
 ### Альтернативный билет для  Теорема Кантора [47] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Теорема Кантора](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/47.png)
+![Теорема Кантора](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/47.png)
 ---
 ## Метрика и примеры метрик, сходящаяся последовательность в метрическом пространстве, полное метрическое пространство [48] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Метрика и примеры метрик, сходящаяся последовательность в метрическом пространстве, полное метрическое пространство](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/48.jpg)
+![Метрика и примеры метрик, сходящаяся последовательность в метрическом пространстве, полное метрическое пространство](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/48.jpg)
 ---
 ## Сжимающие отображения и принцип сжимающих отображений [49] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Сжимающие отображения и принцип сжимающих отображений](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/49.jpg)
+![Сжимающие отображения и принцип сжимающих отображений](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/49.jpg)
 ### Альтернативный билет для  Сжимающие отображения и принцип сжимающих отображений [49] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Сжимающие отображения и принцип сжимающих отображений](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/49.png)
+![Сжимающие отображения и принцип сжимающих отображений](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/49.png)
 ---
 ## Производная, геометрический смысл, касательная и нормаль [50] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Производная, геометрический смысл, касательная и нормаль](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/50.jpg)
+![Производная, геометрический смысл, касательная и нормаль](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/50.jpg)
 ---
 ## О непрерывности дифференцируемой функции [51] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![О непрерывности дифференцируемой функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/51.jpg)
+![О непрерывности дифференцируемой функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/51.jpg)
 ---
 ## Правила дифференцирования [52] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Правила дифференцирования](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/52.jpg)
+![Правила дифференцирования](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/52.jpg)
 ### Альтернативный билет для  Правила дифференцирования [52] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Правила дифференцирования](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/52.png)
+![Правила дифференцирования](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/52.png)
 ---
 ## Производные высших порядков [53] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Производные высших порядков](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/53.jpg)
+![Производные высших порядков](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/53.jpg)
 ### Альтернативный билет для  Производные высших порядков [53] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Производные высших порядков](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/53.png)
+![Производные высших порядков](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/53.png)
 ---
 ## Формула Лейбница [54] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Формула Лейбница](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/54.jpg)
+![Формула Лейбница](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/54.jpg)
 ### Альтернативный билет для  Формула Лейбница [54] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Формула Лейбница](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/54.png)
+![Формула Лейбница](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/54.png)
 ---
 ## Дифференциал и геометрический смысл, критерий дифференцируемости функции [55] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Дифференциал и геометрический смысл, критерий дифференцируемости функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/55.jpg)
+![Дифференциал и геометрический смысл, критерий дифференцируемости функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/55.jpg)
 ---
 ## Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу) [56] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу)](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/56.jpg)
+![Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу)](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/56.jpg)
 ### Альтернативный билет для  Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу) [56] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу)](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/56.png)
+![Французские теоремы (Лагранжа, Ролля, Ферма, Коши, Дарбу)](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/56.png)
 ---
 ## Правило Лопиталя [57] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Правило Лопиталя](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/57.jpg)
+![Правило Лопиталя](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/57.jpg)
 ### Альтернативный билет для  Правило Лопиталя [57] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Правило Лопиталя](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/57.png)
+![Правило Лопиталя](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/57.png)
 ---
 ## Формула Тейлора с остаточным членом в форме Пеано [58] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Формула Тейлора с остаточным членом в форме Пеано](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/58.jpg)
+![Формула Тейлора с остаточным членом в форме Пеано](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/58.jpg)
 ### Альтернативный билет для  Формула Тейлора с остаточным членом в форме Пеано [58] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Формула Тейлора с остаточным членом в форме Пеано](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/58.png)
+![Формула Тейлора с остаточным членом в форме Пеано](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/58.png)
 ---
 ## Формула остаточного члена в общей форме (вид, без вывода, остаточного члена в форме Лагранжа, Коши) [59] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Формула остаточного члена в общей форме (вид, без вывода, остаточного члена в форме Лагранжа, Коши)](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/59.jpg)
+![Формула остаточного члена в общей форме (вид, без вывода, остаточного члена в форме Лагранжа, Коши)](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/59.jpg)
 ---
 ## Признак постоянства функции [60] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Признак постоянства функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/60.jpg)
+![Признак постоянства функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/60.jpg)
 ---
 ## Признак возрастания (убывания) функции [61] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Признак возрастания (убывания) функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/61.jpg)
+![Признак возрастания (убывания) функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/61.jpg)
 ### Альтернативный билет для  Признак возрастания (убывания) функции [61] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Признак возрастания (убывания) функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/61.png)
+![Признак возрастания (убывания) функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/61.png)
 ---
 ## Необходимое условие экстремума [62] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Необходимое условие экстремума](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/62.jpg)
+![Необходимое условие экстремума](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/62.jpg)
 ### Альтернативный билет для  Необходимое условие экстремума [62] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Необходимое условие экстремума](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/62.png)
+![Необходимое условие экстремума](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/62.png)
 ---
 ## Достаточное условие экстремума [63] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Достаточное условие экстремума](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/63.jpg)
+![Достаточное условие экстремума](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/63.jpg)
 ### Альтернативный билет для  Достаточное условие экстремума [63] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Достаточное условие экстремума](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/63.png)
+![Достаточное условие экстремума](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/63.png)
 ---
 ## Признак выпуклости функции [64] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Признак выпуклости функции](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/64.jpg)
+![Признак выпуклости функции](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/64.jpg)
 ---
 ## Достаточное условие экстремума с использованием второй производной [65] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Достаточное условие экстремума с использованием второй производной](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/65.jpg)
+![Достаточное условие экстремума с использованием второй производной](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/65.jpg)
 ### Альтернативный билет для  Достаточное условие экстремума с использованием второй производной [65] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Достаточное условие экстремума с использованием второй производной](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/65.png)
+![Достаточное условие экстремума с использованием второй производной](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/65.png)
 ---
 ## Асимптоты [66] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Асимптоты](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/cards/66.jpg)
+![Асимптоты](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/cards/66.jpg)
 ### Альтернативный билет для  Асимптоты [66] [наверх](https://ruddnevitmo.github.io/s1-ma-colloquium/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D1%83-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
-![Асимптоты](https://raw.githubusercontent.com/ruddnevITMO/s1-ma-colloquium/main/altCards/66.png)
+![Асимптоты](https://raw.githubusercontent.com/ruddnevitmo/s1-ma-colloquium/main/altCards/66.png)
 ---
