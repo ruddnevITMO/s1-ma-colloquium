@@ -24,7 +24,8 @@ if __name__ == '__main__':
 
     replacements = [["о", "o"], ["М", "M"], ["е", "e"],
                     ["а", "a"], ["р", "p"], ["Т", "T"],
-                    ["В", "B"], ["К", "K"], ["с", "c"]]
+                    ["В", "B"], ["К", "K"], ["с", "c"],
+                    ["у", "y"]]
 
     imageLinkTemplate = "https://raw.githubusercontent.com/" + githubName + "/" + repoName + "/main/cards/"
     linkTemplate = "https://" + githubName + ".github.io/" + repoName + "/#"
