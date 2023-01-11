@@ -23,7 +23,7 @@ if __name__ == '__main__':
         print("Неверное количество аргументов")
         sys.exit()
 
-    altFileExtension = fileExtension
+    altFileExtension = ".png"
     obfuscateContents = True
     writeToReadme = True
     printing = False
