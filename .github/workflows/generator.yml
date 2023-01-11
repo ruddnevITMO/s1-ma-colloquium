@@ -1,0 +1,58 @@
+name: Generate README.md to serve
+on:
+  push:
+      paths:
+        - 'cards/**'
+        - 'altCards/**'
+        - 'cardsList.txt'
+  workflow_dispatch:
+    inputs:
+        header:
+          description: 'Заголовок страницы'
+          required: false
+        pictureExtensions:
+          description: 'Расширение файлов картинок'
+          required: false
+          type: choice
+          options:
+          - ""
+          - .png
+          - .jpg
+          - .jpeg
+jobs:
+  generator:
+    runs-on: ubuntu-latest
+    env:
+      header: ${{ inputs.header }}
+      pictureExtensions: ${{ inputs.pictureExtensions }}
+      nameAndRepo: ${{ github.repository }}  
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10' 
+    - run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "noreply@github.com"
+        cd readme-generator
+        runnable=true
+        if ( [ -z "$header" ] && ! [ -s "header.txt" ] ) || ( [ -z "$pictureExtensions" ] && ! [ -s "extensions.txt" ] ); then runnable=false; fi        
+        if [ -f "header.txt" ] && [ -z "$header" ]; then header=$(cat header.txt); fi
+        if [ -f "extensions.txt" ] && [ -z "$pictureExtensions" ]; then pictureExtensions=$(cat extensions.txt); fi
+              
+        echo "$header" > header.txt
+        git add header.txt
+        echo "$pictureExtensions" > extensions.txt
+        git add extensions.txt
+
+        githubName=$(echo $nameAndRepo | cut -d '/' -f 1)
+        repo=$(echo $nameAndRepo | cut -d '/' -f 2)
+        
+        echo "runnable: $runnable"
+        echo "header: $header"
+        echo "pictureExtensions: $pictureExtensions"
+        echo "name: $githubName"
+        echo "repo: $repo"
+        
+        if [ "$runnable" = "false" ]; then echo "can't run!"; else python generator.py "$githubName" "$repo" "$header" "$pictureExtensions"; cd ../; git commit -am "generating README.md"; git push; fi
+      
