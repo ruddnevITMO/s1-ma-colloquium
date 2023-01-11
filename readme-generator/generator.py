@@ -97,7 +97,7 @@ if __name__ == '__main__':
         if numberingInContents:
             outputLine = str(n) + ". " + outputLine
         
-        if n != howManyCards:  # на последней главе содержания не нужен перенос строки
+        if not numberingInContents and n != howManyCards:  # на последней главе содержания не нужен перенос строки
             outputLine += "\\"
         
         printWrite(outputLine)
